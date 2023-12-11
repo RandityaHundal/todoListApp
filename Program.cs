@@ -47,4 +47,6 @@ if (taskNum <= 0)
     Console.WriteLine("Congrats you finished all your tasks!");
 }
 
+Console.WriteLine("Press any key to close the program.");
+
 Console.ReadKey();
